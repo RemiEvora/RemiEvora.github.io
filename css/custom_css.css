@@ -1,0 +1,44 @@
+/*==============================
+  TITLE HEADER STYLE
+  ==============================*/
+
+  .jumbotron {
+	text-align: center;
+	padding-top: 20rem;
+	padding-bottom: 20rem;
+	text-shadow: 2px 2px #000;
+}
+
+.lead span{
+	color: orange;
+	font-weight: bold;
+	font-size: 25px; 
+}
+	
+.bg-cover {
+	background-size: cover;
+	color: white;
+	background-position: center center;
+	position: relative;
+	z-index: -5;
+}
+
+.overlay {
+	background-color: #000;
+	opacity: 0.5;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	z-index: -1;
+}
+
+/*===================================
+  PORTFOLIO SECTION STYLE
+  ===================================*/
+.comingSoon {  
+	color: red;
+	font-weight: bold;
+	font-size: 45px;
+}	
