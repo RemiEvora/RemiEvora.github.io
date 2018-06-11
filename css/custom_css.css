@@ -2,9 +2,9 @@
   TITLE HEADER STYLE
   ==============================*/
 
-  .jumbotron {
+.jumbotron {
 	text-align: center;
-	padding-top: 20rem;
+	padding-top: 22rem;
 	padding-bottom: 20rem;
 	text-shadow: 2px 2px #000;
 }
@@ -35,10 +35,55 @@
 }
 
 /*===================================
-  PORTFOLIO SECTION STYLE
+  NAVIGATION SECTION STYLE 
+  ===================================*/
+
+
+/*===================================
+  EXPERIENCE SECTION STYLE 
+  ===================================*/
+#experience {
+	padding-top: 150px;
+	padding-bottom:150px;
+}	
+
+
+/*===================================
+  INCOMPLETE/SHARED SECTION STYLES 
   ===================================*/
 .comingSoon {  
 	color: red;
 	font-weight: bold;
 	font-size: 45px;
+	padding-top: 250px;
+	padding-bottom: 250px;
+}	
+
+
+/*===================================
+  ABOUT ME SECTION STYLE 
+  ===================================*/
+.aboutMeH2 {
+	text-align: center;
+	color: orange;
+	font-weight: bold;
+	font-size: 40px;
+	padding-bottom: 5px; 
+	text-shadow: 3px 3px rgba(25, 25, 25, 0.5);
+}
+
+.quote {
+	font-style: italic;
+	font-size:30px;
+	padding-bottom: 5px; 
+	color: #000; 
+	text-align: center;
+}
+
+.attributedTo {
+	padding-top: 8px;
+	font-style: normal;
+	text-align: center;
+	font-size: 18px;
+	font: bold;
 }	
