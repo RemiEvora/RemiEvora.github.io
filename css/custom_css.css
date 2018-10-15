@@ -40,11 +40,20 @@
 
 
 /*===================================
-  EXPERIENCE SECTION STYLE 
+  SKILLS SECTION STYLE 
   ===================================*/
-#experience {
+#skills {
+    padding-top: 50px; 
+    padding-bottom: 50px; 
+}
+    
+
+/*===================================
+  PORTFOLIO SECTION STYLE 
+  ===================================*/
+#portfolio {
 	padding-top: 150px;
-	padding-bottom:150px;
+	padding-bottom: 150px;
 }	
 
 
